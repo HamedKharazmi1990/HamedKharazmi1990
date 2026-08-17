@@ -1,6 +1,6 @@
 # Hi, I'm Hamed 👋
 
-I'm a Software Developer with 10+ years of experience building software across **Mobile, Web and Backend**.
+I'm a Software Developer with 7+ years of experience building software across **Mobile, Web and Backend**.
 
 I started my career in mobile development and have worked extensively with **iOS and Swift**, while more recently expanding into **Flutter, React, Next.js, Node.js, NestJS, PostgreSQL and AI-powered applications**.
 
