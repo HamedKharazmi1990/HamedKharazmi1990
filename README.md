@@ -1,12 +1,12 @@
 # Hi, I'm Hamed 👋
 
-I'm a Software Developer with 7+ years of experience building software across **Mobile, Web and Backend**.
+I'm a **Software Developer** with a strong background in **Mobile Development**, now building across **Web, Backend and AI**.
 
-I started my career in mobile development and have worked extensively with **iOS and Swift**, while more recently expanding into **Flutter, React, Next.js, Node.js, NestJS, PostgreSQL and AI-powered applications**.
+I started my career with iOS development and have worked with Swift and modern Apple technologies for many years. More recently, I've been expanding my experience into full-stack development, backend systems and AI-powered applications.
 
-Currently, I'm exploring **Python, AI and modern software architecture** and building projects to broaden my backend and general software development skills.
+Currently, I'm learning **Python** and exploring **AI, backend architecture and scalable software systems**.
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
 **Languages**
 
@@ -28,25 +28,22 @@ Node.js · NestJS · PostgreSQL · Prisma
 
 Python · AI APIs · Embeddings · pgvector
 
-**Tools & Cloud**
+**Cloud & Tools**
 
-Git · GitHub · Docker · Azure · Vercel
+Azure · Docker · Git · GitHub · Vercel
 
-### 🚀 What I'm working on
+### 🚀 Currently Exploring
 
-* 🐍 Learning and building with Python
-* 🤖 Exploring AI-powered applications
-* 🌐 Building full-stack applications
-* 📱 Continuing to explore modern mobile development
-* 🏗️ Learning more about scalable backend architecture
+* 🐍 Python & backend development
+* 🤖 AI-powered applications
+* 🌐 Full-stack development
+* 🏗️ Scalable backend architecture
+* 📱 Modern mobile development
 
 ### 📌 Featured Projects
 
-I use my pinned repositories to showcase projects across different areas of software development.
+A selection of projects across mobile, web, backend and AI.
 
----
+### 📫 Let's Connect
 
-### 📫 Connect
-
-Feel free to connect with me or explore my repositories.
-
+I'm always interested in interesting software projects, new technologies and opportunities to build useful products.
